@@ -1,17 +1,23 @@
 {
-  "name": "node-module",
+  "name": "module",
   "version": "1.0.0",
+  "description": "",
   "main": "greet.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Simangonandi/node-module.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "chalk": "^4.1.2",
-    "figlet": "^1.5.2"
+  "bugs": {
+    "url": "https://github.com/Simangonandi/node-module/issues"
   },
-  "devDependencies": {},
-  "description": ""
+  "homepage": "https://github.com/Simangonandi/node-module#readme",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
 }
